@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shruti-ugale-code?tab=repositories](https://github.com/shruti-ugale-code?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/shruti-ugale-code?tab=repositories](https://github.com/shruti-ugale-code?tab=repositories)(https://codepen.io/your-work/)
+- 
 
 - 💬 Ask me about **java,dsa**
 
